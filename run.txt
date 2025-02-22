@@ -1,0 +1,6 @@
+Place these files in the appropriate directories (data_processing.py, utils.py, train_model.py, predict.py).
+Make sure the HAM10000 dataset is downloaded correctly and accessible.
+Test each script in sequence:
+Run data_processing.py to preprocess the data.
+Run train_model.py to train and save the model.
+Run predict.py to test predictions on single or multiple images.
