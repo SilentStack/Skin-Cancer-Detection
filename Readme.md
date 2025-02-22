@@ -16,6 +16,3 @@ paste it in images folder.
 ## Results
 Achieved 85% accuracy on test data.
 Can classify multiple skin lesion types.
-
-## Author
-👤 Naveen | Machine Learning Enthusiast
